@@ -3,7 +3,7 @@
 
 This is a starting point to talk about git and github 
 
-AND NOW I ADDED A USELESS LINE AT THE BEGINNING!!!!!!!
+AND NOW I ADDED A USELESS LINE AT THE BEGINNING!!!!!!!!
 
 Install git
 -----------
